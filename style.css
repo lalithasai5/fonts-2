@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Indie+Flower&family=Kalnia+Glaze:wght@100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Indie+Flower&family=Kalnia+Glaze:wght@100..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Gurajada&family=Indie+Flower&family=Kalnia+Glaze:wght@100..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chathura:wght@100;300;400;700;800&family=Great+Vibes&family=Gurajada&family=Indie+Flower&family=Kalnia+Glaze:wght@100..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chathura:wght@100;300;400;700;800&family=Great+Vibes&family=Gurajada&family=Indie+Flower&family=Kalnia+Glaze:wght@100..700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@font-face {
+    font-family:lakkireddy ;
+    src: url(./fonts/LakkiReddy\ Regular.otf);
+}
+#indieflower{
+    font-family: "Indie Flower", cursive;
+}
+#greatevibes{
+    font-family: "Great Vibes", cursive;
+}
+#kalniaglaze{
+    font-family:  "Kalnia Glaze", serif;
+}
+#roboto{
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+}
+#roboto1{
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+#gurujada{
+    font-family: "Gurajada", sans-serif;
+}
+#chatura{
+    font-family: "Chathura", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+#notosans{
+    font-family: "Noto Sans", sans-serif;
+}
+#notosans1{
+    font-family: "Noto Sans", sans-serif;
+    font-size: 800;
+    font-style: italic;
+}
+#lakkireddy{
+    font-family: lakkireddy;
+}
+/*there is no italic in notasan
